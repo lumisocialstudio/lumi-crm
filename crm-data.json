@@ -1,0 +1,143 @@
+{
+  "studio": {
+    "name": "Lumi Social Studio",
+    "tagline": "Content that works as hard as your brand does."
+  },
+  "pipeline": {
+    "sent": [
+      { "id": "s01", "brand": "KORA Organics", "contact": "amelia@koraorganics.com", "date": "2026-06-11", "notes": "Certified organic skincare pitch" },
+      { "id": "s02", "brand": "Epzen", "contact": "hello@epzen.com.au", "date": "2026-06-11", "notes": "Magnesium body care / recovery pitch" },
+      { "id": "s03", "brand": "WelleCo", "contact": "brianna@welleco.com", "date": "2026-06-11", "notes": "Plant-based wellness elixirs pitch" },
+      { "id": "s04", "brand": "JSHealth Vitamins", "contact": "jessica.d@jshealthvitamins.com", "date": "2026-06-11", "notes": "Vitamin formula pitch, multiple contacts" },
+      { "id": "s05", "brand": "Habitual Beauty", "contact": "press@habitualbeauty.com", "date": "2026-06-11", "notes": "Advanced collagen pitch" },
+      { "id": "s06", "brand": "Slick Hair", "contact": "hi@slickhaircompany.com", "date": "2026-06-10", "notes": "Hair styling essentials pitch" },
+      { "id": "s07", "brand": "Bangn Body", "contact": "danielle@bangnbody.com", "date": "2026-06-10", "notes": "Firming lotion / skincare pitch" },
+      { "id": "s08", "brand": "Straand", "contact": "hello@straand.com.au", "date": "2026-06-10", "notes": "Prebiotic haircare pitch" },
+      { "id": "s09", "brand": "Xali Organics", "contact": "sheridan@xaliorganics.com", "date": "2026-06-10", "notes": "Lash and beauty organics pitch" },
+      { "id": "s10", "brand": "Avocado Zinc", "contact": "info@avocadozinc.com.au", "date": "2026-06-10", "notes": "Zinc sunscreen pitch" },
+      { "id": "s11", "brand": "Skit Beauty", "contact": "hello@skitbeauty.com", "date": "2026-06-07", "notes": "Acne care / functional skincare pitch" },
+      { "id": "s12", "brand": "Avec", "contact": "creators@avec-life.com", "date": "2026-06-07", "notes": "Longevity supplements pitch" },
+      { "id": "s13", "brand": "Snap", "contact": "press@snap.com", "date": "2026-06-07", "notes": "Travel powerbanks pitch" },
+      { "id": "s14", "brand": "Oodie", "contact": "lilybennett@daviegroup.com.au", "date": "2026-06-07", "notes": "Loungewear / comfort lifestyle pitch" },
+      { "id": "s15", "brand": "Happy Mammoth", "contact": "support@happymammoth.co", "date": "2026-06-07", "notes": "Gut health supplements pitch" },
+      { "id": "s16", "brand": "The Body Method", "contact": "hello@thebodymethod.com.au", "date": "2026-06-07", "notes": "Pilates studio pitch, Gold Coast" },
+      { "id": "s17", "brand": "Sukkar", "contact": "info@sukkarco.com", "date": "2026-06-06", "notes": "Wellness / health lifestyle pitch" },
+      { "id": "s18", "brand": "73fly", "contact": "contact@73fly.co.nz", "date": "2026-06-06", "notes": "Travel brand, mentioned Bali/Australia" },
+      { "id": "s19", "brand": "Ninja Kitchen", "contact": "customerservice@ninjakitchen.com.au", "date": "2026-06-06", "notes": "Lifestyle / kitchen appliance pitch" },
+      { "id": "s20", "brand": "Lashfridays", "contact": "contact@lashfridays.com", "date": "2026-06-06", "notes": "Lash and brow serum pitch" },
+      { "id": "s21", "brand": "Novomins", "contact": "hello@novomins.com", "date": "2026-06-06", "notes": "Vitamin / beauty wellness pitch" },
+      { "id": "s22", "brand": "Ere Perez", "contact": "pr@ereperez.com", "date": "2026-06-05", "notes": "Clean natural beauty pitch" },
+      { "id": "s23", "brand": "NIVEA", "contact": "consumer.relations@beiersdorf.com", "date": "2026-06-05", "notes": "Skincare / wellness pitch" },
+      { "id": "s24", "brand": "AKT", "contact": "luke@aktlondon.com", "date": "2026-06-05", "notes": "Performance deodorant pitch" },
+      { "id": "s25", "brand": "Tula", "contact": "bridget@tula.com", "date": "2026-06-03", "notes": "Probiotic skincare pitch" },
+      { "id": "s26", "brand": "Herbaland", "contact": "fraleigh@herbaland.com", "date": "2026-06-03", "notes": "Gummy supplement pitch, delivery delays" },
+      { "id": "s27", "brand": "BYOMA", "contact": "jack.brennan@byoma.com", "date": "2026-06-03", "notes": "Barrier skincare pitch, followed up" },
+      { "id": "s28", "brand": "Bloom Nutrition", "contact": "alyssa.broad@bloomnu.com", "date": "2026-06-03", "notes": "Wellness supplements pitch, followed up" },
+      { "id": "s29", "brand": "Sand and Sky", "contact": "marketing@sandandsky.com", "date": "2026-06-03", "notes": "Pink clay skincare pitch, followed up" },
+      { "id": "s30", "brand": "Frank Body", "contact": "natasha.w@frankbody.com", "date": "2026-06-03", "notes": "Coffee scrub pitch, followed up" },
+      { "id": "s31", "brand": "The Beauty Chef", "contact": "madison@thebeautychef.com", "date": "2026-06-02", "notes": "Gut health / beauty wellness pitch" },
+      { "id": "s32", "brand": "Innermost", "contact": "press@liveinnermost.com", "date": "2026-06-03", "notes": "Supplements pitch, followed up" },
+      { "id": "s33", "brand": "Artah", "contact": "martha@artah.co", "date": "2026-06-03", "notes": "Wellness supplements pitch, followed up" },
+      { "id": "s34", "brand": "Humantra", "contact": "chloe.higham@gethumantra.com", "date": "2026-06-12", "notes": "Hydration / electrolytes pitch" },
+      { "id": "s35", "brand": "Elite Supplements", "contact": "enquiries@elitesupps.com.au", "date": "2026-06-12", "notes": "Fitness supplements pitch" },
+      { "id": "s36", "brand": "Too Good To Go", "contact": "press@toogoodtogo.com.au", "date": "2026-06-12", "notes": "Food rescue / sustainability pitch" },
+      { "id": "s37", "brand": "Beauty Boosters", "contact": "info@beautyboosters.com.au", "date": "2026-06-12", "notes": "Skin vitamins pitch" },
+      { "id": "s38", "brand": "Sunny O", "contact": "hello@sunnyo.com.au", "date": "2026-06-12", "notes": "Natural sunscreen pitch" },
+      { "id": "s39", "brand": "Oz Hair and Beauty", "contact": "natasha@ozhairandbeauty.com", "date": "2026-06-12", "notes": "Hair and beauty pitch" },
+      { "id": "s40", "brand": "Leelo Active", "contact": "nikki@leeloactive.com.au", "date": "2026-06-12", "notes": "Activewear pitch — IG DM also sent" },
+      { "id": "s41", "brand": "IF Coconut", "contact": "info@innovativefnb.com", "date": "2026-06-12", "notes": "Coconut hydration pitch — IG DM also sent" },
+      { "id": "s42", "brand": "Lust Minerals", "contact": "grace@lustminerals.com.au", "date": "2026-06-12", "notes": "Mineral makeup pitch — IG DM also sent" },
+      { "id": "s43", "brand": "Smartblend AU", "contact": "Instagram DM only", "date": "2026-06-12", "notes": "Wellness brand, no email available" }
+    ],
+    "replied": [
+      { "id": "r01", "brand": "Skin + Me", "contact": "hello@skinandme.com", "date": "2026-06-03", "lastReply": "2026-06-08", "notes": "Leny confirmed paid UGC programme. Affiliate signup sent. WARM LEAD — follow up to convert to paid trial pack." },
+      { "id": "r02", "brand": "Voomie", "contact": "hello@voomie.com", "date": "2026-06-06", "lastReply": "2026-06-07", "notes": "Asked Jasmine to complete creator collaboration form. ACTION: submit form." },
+      { "id": "r03", "brand": "Priceline", "contact": "pr@priceline.com.au", "date": "2026-06-06", "lastReply": "2026-06-09", "notes": "Mia forwarded portfolio to marketing team. Awaiting response." },
+      { "id": "r04", "brand": "Tiny Away", "contact": "ask@tinyaway.com", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Forwarded to marketing team, portfolio sent." },
+      { "id": "r05", "brand": "Muscle Mat", "contact": "info@musclemat.com.au", "date": "2026-06-07", "lastReply": "2026-06-09", "notes": "Erin forwarded to marketing, team also reached out via Instagram." },
+      { "id": "r06", "brand": "Naked Sundays", "contact": "rachel@nakedsundays.com", "date": "2026-06-10", "lastReply": "2026-06-11", "notes": "At capacity currently, keeping details on file for future campaigns." },
+      { "id": "r07", "brand": "Esmi Skin Minerals", "contact": "hello@esmi.com.au", "date": "2026-06-07", "lastReply": "2026-06-07", "notes": "Auto-reply, high volume of enquiries, 48hr response window." },
+      { "id": "r08", "brand": "Adore Beauty", "contact": "partnerships@adorebeauty.com.au", "date": "2026-06-05", "lastReply": "2026-06-05", "notes": "Auto-reply from partnerships team, will follow up if opportunity arises." },
+      { "id": "r09", "brand": "Vida Glow", "contact": "hello@vidaglow.com", "date": "2026-06-03", "lastReply": "2026-06-03", "notes": "Auto-reply received, 1-2 business day response window." },
+      { "id": "r10", "brand": "Go To Skincare", "contact": "media@gotoskincare.com", "date": "2026-06-05", "lastReply": "2026-06-05", "notes": "Media team auto-reply received." },
+      { "id": "r11", "brand": "Sweat", "contact": "cassie.pyman@sweat.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Support ticket raised, followed up 5 Jun." },
+      { "id": "r12", "brand": "Cocokind", "contact": "partnerships@cocokind.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Forwarded to influencer team, followed up 5 Jun." },
+      { "id": "r13", "brand": "Goli", "contact": "hello@goli.com", "date": "2026-06-03", "lastReply": "2026-06-03", "notes": "Directed to TikTok Shop affiliate programme." },
+      { "id": "r14", "brand": "Velocity", "contact": "info@velocityactivewear.com.au", "date": "2026-06-12", "lastReply": "2026-06-12", "notes": "Auto-reply, 2-3 business day response window." },
+      { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." }
+    ],
+    "bounced": [
+      { "id": "b01", "brand": "Dr Barbara Sturm", "contact": "press@drsturm.com", "date": "2026-06-05", "notes": "All 3 contact addresses blocked outright." },
+      { "id": "b02", "brand": "Luk Beautifood", "contact": "teneale@lukbeautifood.com", "date": "2026-06-11", "notes": "All personal addresses bounced across 2 attempts." },
+      { "id": "b03", "brand": "Easy Prep", "contact": "hello@easyprep.au", "date": "2026-06-06", "notes": "Email address invalid." },
+      { "id": "b04", "brand": "Nutra Life", "contact": "hello@nutralife.com", "date": "2026-06-05", "notes": ".com address bounced, .com.au unconfirmed." },
+      { "id": "b05", "brand": "Shaishaishai", "contact": "cs@shaishaishai.kr", "date": "2026-06-07", "notes": "Korean contact bounced, US address delivered." }
+    ],
+    "closedWon": [
+      { "id": "w01", "brand": "Nanoleaf", "contact": "Leslie@nanoleaf.me", "date": "2026-06-08", "notes": "Paid UGC deal completed. Testimonial secured for portfolio." }
+    ]
+  },
+  "invoices": [
+    { "id": "INV-001", "client": "Nanoleaf", "package": "Studio Trial Pack", "amount": 700, "dueDate": "2026-06-22", "status": "Paid" },
+    { "id": "INV-002", "client": "Skin + Me", "package": "Studio Trial Pack", "amount": 700, "dueDate": "2026-06-26", "status": "Sent" },
+    { "id": "INV-003", "client": "Voomie", "package": "Studio Trial Pack", "amount": 700, "dueDate": "2026-06-27", "status": "Sent" },
+    { "id": "INV-004", "client": "Priceline", "package": "Studio Trial Pack", "amount": 700, "dueDate": "2026-06-28", "status": "Draft" },
+    { "id": "INV-005", "client": "Tiny Away", "package": "Studio Trial Pack", "amount": 700, "dueDate": "2026-06-29", "status": "Draft" },
+    { "id": "INV-006", "client": "Muscle Mat", "package": "Monthly Retainer", "amount": 900, "dueDate": "2026-06-30", "status": "Draft" }
+  ],
+  "assets": [
+    { "id": "a01", "name": "Nanoleaf — Wellness Evening Routine", "brand": "Nanoleaf", "dueDate": "2026-06-08", "driveLink": "", "status": "Approved" },
+    { "id": "a02", "name": "Ulu Hills Villas — Travel B-Roll", "brand": "Ulu Hills Villas", "dueDate": "2026-06-09", "driveLink": "", "status": "Approved" },
+    { "id": "a03", "name": "Saltair x Space NK — Event B-Roll", "brand": "Saltair x Space NK", "dueDate": "2026-06-10", "driveLink": "", "status": "Approved" },
+    { "id": "a04", "name": "Rhode — Clean Girl Beauty Reel", "brand": "Rhode", "dueDate": "2026-06-10", "driveLink": "", "status": "Approved" },
+    { "id": "a05", "name": "Skin + Me — Trial Pack Concepts", "brand": "Skin + Me", "dueDate": "2026-06-20", "driveLink": "", "status": "Drafting" },
+    { "id": "a06", "name": "Voomie — Trial Pack Concepts", "brand": "Voomie", "dueDate": "2026-06-21", "driveLink": "", "status": "Drafting" }
+  ],
+  "calendarEvents": [
+    { "date": "2026-06-02", "label": "Outreach: The Beauty Chef", "type": "outreach" },
+    { "date": "2026-06-03", "label": "Outreach batch — 11 brands", "type": "outreach" },
+    { "date": "2026-06-05", "label": "Follow-ups sent", "type": "followup" },
+    { "date": "2026-06-06", "label": "Outreach batch — 9 brands", "type": "outreach" },
+    { "date": "2026-06-07", "label": "Outreach batch — 12 brands", "type": "outreach" },
+    { "date": "2026-06-08", "label": "Nanoleaf — final delivery", "type": "deadline" },
+    { "date": "2026-06-09", "label": "Ulu Hills Villas — filming day", "type": "shoot" },
+    { "date": "2026-06-10", "label": "Saltair x Space NK + Rhode — filming day", "type": "shoot" },
+    { "date": "2026-06-10", "label": "Outreach batch — 8 brands", "type": "outreach" },
+    { "date": "2026-06-11", "label": "Outreach batch — 6 brands", "type": "outreach" },
+    { "date": "2026-06-12", "label": "Outreach batch — 13 brands", "type": "outreach" },
+    { "date": "2026-06-20", "label": "Skin + Me — concepts due", "type": "deadline" },
+    { "date": "2026-06-21", "label": "Voomie — concepts due", "type": "deadline" },
+    { "date": "2026-06-26", "label": "Skin + Me — invoice due", "type": "invoice" },
+    { "date": "2026-06-27", "label": "Voomie — invoice due", "type": "invoice" }
+  ],
+  "actionRequired": [
+    {
+      "id": "ar01",
+      "brand": "Dr Barbara Sturm",
+      "bouncedEmail": "press@drsturm.com",
+      "instagram": "@drsturm",
+      "dmPitch": "Hi! I'm Jasmine from Lumi Social Studio. I'm a UGC creator specialising in aesthetic, high-conversion video content for the wellness space. I've been following your recent campaigns and love the clinical, results-led positioning. I'd love to create content showcasing your products within real skincare routines. Portfolio: lumisocialstudio.com — would you be open to a quick chat about working together?"
+    },
+    {
+      "id": "ar02",
+      "brand": "Luk Beautifood",
+      "bouncedEmail": "teneale@lukbeautifood.com",
+      "instagram": "@lukbeautifood",
+      "dmPitch": "Hi! I'm Jasmine from Lumi Social Studio. I recently came across your food-active cosmetics and love how they combine pure, 100% natural ingredients with an elevated daily wellness experience — it fits perfectly with the kind of routine-led content I create. I'd love to create content showcasing Luk Beautifood within real morning beauty rituals. Portfolio: lumisocialstudio.com — would you be open to a quick chat?"
+    },
+    {
+      "id": "ar03",
+      "brand": "Easy Prep",
+      "bouncedEmail": "hello@easyprep.au",
+      "instagram": "@easyprep",
+      "dmPitch": "Hey EasyPrep team! I'm Jasmine from Lumi Social Studio. I'm a health and fitness UGC creator based on the Gold Coast, and I absolutely love the clean branding you've built. I focus on routine-led content — meal prep rituals, daily wellness habits — that converts on social and paid ads. Portfolio: lumisocialstudio.com — would love to chat if you're open to it!"
+    },
+    {
+      "id": "ar04",
+      "brand": "Nutra Life",
+      "bouncedEmail": "hello@nutralife.com",
+      "instagram": "@nutralifehealth",
+      "dmPitch": "Hi! I'm Jasmine from Lumi Social Studio. I'm a UGC creator specialising in aesthetic, high-conversion video content for the wellness space. I've been following your recent campaigns and would love to create content showcasing Nutra Life within real daily wellness routines. Portfolio: lumisocialstudio.com — would you be open to a quick chat about working together?"
+    }
+  ]
+}
