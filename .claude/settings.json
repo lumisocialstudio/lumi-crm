@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "workspace": {
+      "command": "uvx",
+      "args": ["workspace-mcp", "--tool-tier", "core"]
+    }
+  }
+}
