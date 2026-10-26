@@ -18,7 +18,7 @@
       { "id": "s11", "brand": "Skit Beauty", "contact": "hello@skitbeauty.com", "date": "2026-06-07", "notes": "Acne care / functional skincare pitch" },
       { "id": "s12", "brand": "Avec", "contact": "creators@avec-life.com", "date": "2026-06-07", "notes": "Longevity supplements pitch" },
       { "id": "s13", "brand": "Snap", "contact": "press@snap.com", "date": "2026-06-07", "notes": "Travel powerbanks pitch" },
-      { "id": "s14", "brand": "Oodie", "contact": "lilybennett@daviegroup.com.au", "date": "2026-06-07", "notes": "Loungewear / comfort lifestyle pitch" },
+      { "id": "s14", "brand": "Oodie", "contact": "lilybennett@daviegroup.com.au", "date": "2026-10-26", "notes": "Loungewear / comfort lifestyle pitch. Re-pitched 26 Oct to partnerships@theoodie.com (UK)" },
       { "id": "s15", "brand": "Happy Mammoth", "contact": "support@happymammoth.co", "date": "2026-06-07", "notes": "Gut health supplements pitch" },
       { "id": "s16", "brand": "The Body Method", "contact": "hello@thebodymethod.com.au", "date": "2026-06-07", "notes": "Pilates studio pitch, Gold Coast" },
       { "id": "s17", "brand": "Sukkar", "contact": "info@sukkarco.com", "date": "2026-06-06", "notes": "Wellness / health lifestyle pitch" },
@@ -40,7 +40,7 @@
       { "id": "s33", "brand": "Artah", "contact": "martha@artah.co", "date": "2026-06-03", "notes": "Wellness supplements pitch, followed up" },
       { "id": "s34", "brand": "Humantra", "contact": "chloe.higham@gethumantra.com", "date": "2026-06-12", "notes": "Hydration / electrolytes pitch" },
       { "id": "s35", "brand": "Elite Supplements", "contact": "enquiries@elitesupps.com.au", "date": "2026-06-12", "notes": "Fitness supplements pitch" },
-      { "id": "s36", "brand": "Too Good To Go", "contact": "press@toogoodtogo.com.au", "date": "2026-06-12", "notes": "Food rescue / sustainability pitch" },
+      { "id": "s36", "brand": "Too Good To Go", "contact": "press@toogoodtogo.com.au", "date": "2026-10-26", "notes": "Food rescue / sustainability pitch. UK pitch sent 26 Oct to press@toogoodtogo.co.uk" },
       { "id": "s37", "brand": "Beauty Boosters", "contact": "info@beautyboosters.com.au", "date": "2026-06-12", "notes": "Skin vitamins pitch" },
       { "id": "s38", "brand": "Sunny O", "contact": "hello@sunnyo.com.au", "date": "2026-06-12", "notes": "Natural sunscreen pitch" },
       { "id": "s39", "brand": "Oz Hair and Beauty", "contact": "natasha@ozhairandbeauty.com", "date": "2026-06-12", "notes": "Hair and beauty pitch" },
@@ -63,7 +63,7 @@
       { "id": "r11", "brand": "Sweat", "contact": "cassie.pyman@sweat.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Support ticket raised, followed up 5 Jun." },
       { "id": "r12", "brand": "Cocokind", "contact": "partnerships@cocokind.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Forwarded to influencer team, followed up 5 Jun." },
       { "id": "r13", "brand": "Goli", "contact": "hello@goli.com", "date": "2026-06-03", "lastReply": "2026-06-03", "notes": "Directed to TikTok Shop affiliate programme." },
-      { "id": "r14", "brand": "Velocity", "contact": "info@velocityactivewear.com.au", "date": "2026-06-12", "lastReply": "2026-06-12", "notes": "Auto-reply, 2-3 business day response window." },
+      { "id": "r14", "brand": "Velocity", "contact": "info@velocityactivewear.com.au", "date": "2026-06-12", "lastReply": "2026-10-26", "notes": "Auto-reply, 2-3 business day response window. Active partnership since 1 Oct: 4 of 6 posts delivered, 2 remaining (confirmed 26 Oct)." },
       { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." }
     ],
     "bounced": [
