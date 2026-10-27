@@ -47,7 +47,9 @@
       { "id": "s40", "brand": "Leelo Active", "contact": "nikki@leeloactive.com.au", "date": "2026-06-12", "notes": "Activewear pitch — IG DM also sent" },
       { "id": "s41", "brand": "IF Coconut", "contact": "info@innovativefnb.com", "date": "2026-06-12", "notes": "Coconut hydration pitch — IG DM also sent" },
       { "id": "s42", "brand": "Lust Minerals", "contact": "grace@lustminerals.com.au", "date": "2026-06-12", "notes": "Mineral makeup pitch — IG DM also sent" },
-      { "id": "s43", "brand": "Smartblend AU", "contact": "Instagram DM only", "date": "2026-06-12", "notes": "Wellness brand, no email available" }
+      { "id": "s43", "brand": "Smartblend AU", "contact": "Instagram DM only", "date": "2026-06-12", "notes": "Wellness brand, no email available" },
+      { "id": "s44", "brand": "Dr Organic", "contact": "jasmine@araysocial.com", "date": "2026-10-27", "notes": "Re-pitched via their UGC agency contact after earlier decline (working with agency this year)" },
+      { "id": "s45", "brand": "Grenade", "contact": "sponsorships@grenade.com", "date": "2026-10-27", "notes": "Re-pitched to sponsorships inbox as directed by Zendesk reply (Jas x Grenade UGC Collab)" }
     ],
     "replied": [
       { "id": "r01", "brand": "Skin + Me", "contact": "hello@skinandme.com", "date": "2026-06-03", "lastReply": "2026-06-08", "notes": "Leny confirmed paid UGC programme. Affiliate signup sent. WARM LEAD — follow up to convert to paid trial pack." },
@@ -64,9 +66,7 @@
       { "id": "r12", "brand": "Cocokind", "contact": "partnerships@cocokind.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Forwarded to influencer team, followed up 5 Jun." },
       { "id": "r13", "brand": "Goli", "contact": "hello@goli.com", "date": "2026-06-03", "lastReply": "2026-06-03", "notes": "Directed to TikTok Shop affiliate programme." },
       { "id": "r14", "brand": "Velocity", "contact": "info@velocityactivewear.com.au", "date": "2026-06-12", "lastReply": "2026-10-26", "notes": "Auto-reply, 2-3 business day response window. Active partnership: 4 of 6 posts delivered, remaining 2 due end of Oct." },
-      { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." },
-      { "id": "r16", "brand": "Dr Organic", "contact": "info@drorganic.co.uk", "date": "2026-10-26", "lastReply": "2026-10-26", "notes": "Declined — working with a UGC agency this year (jasmine@araysocial.com). Will reach out if anything changes." },
-      { "id": "r17", "brand": "Grenade", "contact": "info@grenade.com", "date": "2026-10-26", "lastReply": "2026-10-26", "notes": "Zendesk reply: send influencer enquiries to sponsorships@grenade.com with name, country, audience/reach, proposal, social links. ACTION: re-pitch there." }
+      { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." }
     ],
     "bounced": [
       { "id": "b01", "brand": "Dr Barbara Sturm", "contact": "press@drsturm.com", "date": "2026-06-05", "notes": "All 3 contact addresses blocked outright." },
