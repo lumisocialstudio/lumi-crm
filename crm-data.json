@@ -49,7 +49,8 @@
       { "id": "s42", "brand": "Lust Minerals", "contact": "grace@lustminerals.com.au", "date": "2026-06-12", "notes": "Mineral makeup pitch — IG DM also sent" },
       { "id": "s43", "brand": "Smartblend AU", "contact": "Instagram DM only", "date": "2026-06-12", "notes": "Wellness brand, no email available" },
       { "id": "s44", "brand": "Dr Organic", "contact": "jasmine@araysocial.com", "date": "2026-10-27", "notes": "Re-pitched via their UGC agency contact after earlier decline (working with agency this year)" },
-      { "id": "s45", "brand": "Grenade", "contact": "sponsorships@grenade.com", "date": "2026-10-27", "notes": "Re-pitched to sponsorships inbox as directed by Zendesk reply (Jas x Grenade UGC Collab)" }
+      { "id": "s45", "brand": "Grenade", "contact": "sponsorships@grenade.com", "date": "2026-10-27", "notes": "Re-pitched to sponsorships inbox as directed by Zendesk reply (Jas x Grenade UGC Collab)" },
+      { "id": "s46", "brand": "Hume Health", "contact": "growth@cubert.co", "date": "2026-11-01", "notes": "Jas x Hume Health UGC Collab pitch" }
     ],
     "replied": [
       { "id": "r01", "brand": "Skin + Me", "contact": "hello@skinandme.com", "date": "2026-06-03", "lastReply": "2026-06-08", "notes": "Leny confirmed paid UGC programme. Affiliate signup sent. WARM LEAD — follow up to convert to paid trial pack." },
@@ -66,7 +67,9 @@
       { "id": "r12", "brand": "Cocokind", "contact": "partnerships@cocokind.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Forwarded to influencer team, followed up 5 Jun." },
       { "id": "r13", "brand": "Goli", "contact": "hello@goli.com", "date": "2026-06-03", "lastReply": "2026-06-03", "notes": "Directed to TikTok Shop affiliate programme." },
       { "id": "r14", "brand": "Velocity", "contact": "info@velocityactivewear.com.au", "date": "2026-06-12", "lastReply": "2026-10-26", "notes": "Auto-reply, 2-3 business day response window. Active partnership: 4 of 6 posts delivered, remaining 2 due end of Oct." },
-      { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." }
+      { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." },
+      { "id": "r16", "brand": "Desky", "contact": "partnerships@desky.com.au", "date": "2026-10-20", "lastReply": "2026-10-23", "notes": "Desky AU asked for product/colour details; Jas replied 1 Nov quoting $800 AUD per video (30 days usage), requested Dual Mini Sit Stand Desk, wants delivery before 16 Nov. Awaiting response. (Pitch date approximate = first reply.)" },
+      { "id": "r17", "brand": "Purifide", "contact": "creators@blackandwhitecomms.com", "date": "2026-11-01", "lastReply": "2026-11-01", "notes": "Auto-reply from Black & White Comms: submit details to their creator database form (only contact if relevant). ACTION: submit form." }
     ],
     "bounced": [
       { "id": "b01", "brand": "Dr Barbara Sturm", "contact": "press@drsturm.com", "date": "2026-06-05", "notes": "All 3 contact addresses blocked outright." },
