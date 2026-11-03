@@ -27,7 +27,7 @@
       { "id": "s20", "brand": "Lashfridays", "contact": "contact@lashfridays.com", "date": "2026-06-06", "notes": "Lash and brow serum pitch" },
       { "id": "s21", "brand": "Novomins", "contact": "hello@novomins.com", "date": "2026-06-06", "notes": "Vitamin / beauty wellness pitch" },
       { "id": "s22", "brand": "Ere Perez", "contact": "pr@ereperez.com", "date": "2026-06-05", "notes": "Clean natural beauty pitch" },
-      { "id": "s23", "brand": "NIVEA", "contact": "consumer.relations@beiersdorf.com", "date": "2026-06-05", "notes": "Skincare / wellness pitch" },
+      { "id": "s23", "brand": "NIVEA", "contact": "consumer.relations@beiersdorf.com", "date": "2026-06-05", "notes": "Skincare / wellness pitch. Re-pitched 2026-11-03 via agency contact nivea@porternovelli.co.uk" },
       { "id": "s24", "brand": "AKT", "contact": "luke@aktlondon.com", "date": "2026-06-05", "notes": "Performance deodorant pitch" },
       { "id": "s25", "brand": "Tula", "contact": "bridget@tula.com", "date": "2026-06-03", "notes": "Probiotic skincare pitch" },
       { "id": "s26", "brand": "Herbaland", "contact": "fraleigh@herbaland.com", "date": "2026-06-03", "notes": "Gummy supplement pitch, delivery delays" },
@@ -49,7 +49,16 @@
       { "id": "s42", "brand": "Lust Minerals", "contact": "grace@lustminerals.com.au", "date": "2026-06-12", "notes": "Mineral makeup pitch — IG DM also sent" },
       { "id": "s43", "brand": "Smartblend AU", "contact": "Instagram DM only", "date": "2026-06-12", "notes": "Wellness brand, no email available" },
       { "id": "s44", "brand": "Dr Organic", "contact": "jasmine@araysocial.com", "date": "2026-10-27", "notes": "Re-pitched via their UGC agency contact after earlier decline (working with agency this year)" },
-      { "id": "s45", "brand": "Grenade", "contact": "sponsorships@grenade.com", "date": "2026-11-01", "notes": "Re-pitched to sponsorships inbox as directed by Zendesk reply (Jas x Grenade UGC Collab). Follow-up sent 2026-11-01." }
+      { "id": "s45", "brand": "Grenade", "contact": "sponsorships@grenade.com", "date": "2026-11-01", "notes": "Re-pitched to sponsorships inbox as directed by Zendesk reply (Jas x Grenade UGC Collab). Follow-up sent 2026-11-01." },
+      { "id": "s46", "brand": "Nip+Fab", "contact": "enquiries@nipandfab.com", "date": "2026-11-03", "notes": "Skincare UGC collab pitch" },
+      { "id": "s47", "brand": "Tom's Studio", "contact": "hello@tomsstudio.co.uk", "date": "2026-11-03", "notes": "UGC collab pitch" },
+      { "id": "s48", "brand": "Frive", "contact": "affiliates@frive.co.uk", "date": "2026-11-03", "notes": "UGC collab pitch" },
+      { "id": "s49", "brand": "WE. ARE. REGULAR", "contact": "contact@weareregular.com", "date": "2026-11-03", "notes": "UGC collab pitch" },
+      { "id": "s50", "brand": "Home Harvest", "contact": "press@homeharvest.co.uk", "date": "2026-11-03", "notes": "UGC collab pitch" },
+      { "id": "s51", "brand": "Dormeo", "contact": "contact@dormeo-home.com", "date": "2026-11-03", "notes": "UGC collab pitch" },
+      { "id": "s52", "brand": "Weleda", "contact": "community@weleda.co.uk", "date": "2026-11-03", "notes": "UGC collab pitch" },
+      { "id": "s53", "brand": "Hetras", "contact": "marketingad@hetras.co.kr", "date": "2026-11-03", "notes": "UGC collab pitch" },
+      { "id": "s54", "brand": "Ariana Grande Fragrances", "contact": "customerservice@arianagrandefragrances.com", "date": "2026-11-03", "notes": "UGC collab pitch" }
     ],
     "replied": [
       { "id": "r01", "brand": "Skin + Me", "contact": "hello@skinandme.com", "date": "2026-06-03", "lastReply": "2026-06-08", "notes": "Leny confirmed paid UGC programme. Affiliate signup sent. WARM LEAD — follow up to convert to paid trial pack." },
@@ -65,15 +74,19 @@
       { "id": "r11", "brand": "Sweat", "contact": "cassie.pyman@sweat.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Support ticket raised, followed up 5 Jun." },
       { "id": "r12", "brand": "Cocokind", "contact": "partnerships@cocokind.com", "date": "2026-06-03", "lastReply": "2026-06-05", "notes": "Forwarded to influencer team, followed up 5 Jun." },
       { "id": "r13", "brand": "Goli", "contact": "hello@goli.com", "date": "2026-06-03", "lastReply": "2026-06-03", "notes": "Directed to TikTok Shop affiliate programme." },
-      { "id": "r14", "brand": "Velocity", "contact": "info@velocityactivewear.com.au", "date": "2026-06-12", "lastReply": "2026-10-26", "notes": "Auto-reply, 2-3 business day response window. Active partnership: 4 of 6 posts delivered, remaining 2 due end of Oct." },
-      { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." }
+      { "id": "r14", "brand": "Velocity", "contact": "info@velocityactivewear.com.au", "date": "2026-06-12", "lastReply": "2026-11-03", "notes": "Trial month ended; Velocity declined to continue partnership (no sales return) on 2026-11-03. Closed." },
+      { "id": "r15", "brand": "Natio", "contact": "support@natio.com.au", "date": "2026-06-07", "lastReply": "2026-06-08", "notes": "Replied — unable to accommodate new partnerships at this time. Closed." },
+      { "id": "r16", "brand": "Hercules Supplements", "contact": "info@herculessupplements.com.au", "date": "2026-10-16", "lastReply": "2026-11-02", "notes": "Only working with gifted collaborators at the moment — asks if open to gifted. ACTION: decide/reply." },
+      { "id": "r17", "brand": "CAIA Cosmetics", "contact": "info@caiacosmetics.com", "date": "2026-11-03", "lastReply": "2026-11-03", "notes": "Auto-reply received (pitch also sent to renee@caiacosmetics.com)." },
+      { "id": "r18", "brand": "Accessorize", "contact": "customerservices@monsoon.co.uk", "date": "2026-11-03", "lastReply": "2026-11-03", "notes": "Auto-replies from Monsoon/Accessorize support received." }
     ],
     "bounced": [
       { "id": "b01", "brand": "Dr Barbara Sturm", "contact": "press@drsturm.com", "date": "2026-06-05", "notes": "All 3 contact addresses blocked outright." },
       { "id": "b02", "brand": "Luk Beautifood", "contact": "teneale@lukbeautifood.com", "date": "2026-06-11", "notes": "All personal addresses bounced across 2 attempts." },
       { "id": "b03", "brand": "Easy Prep", "contact": "hello@easyprep.au", "date": "2026-06-06", "notes": "Email address invalid." },
       { "id": "b04", "brand": "Nutra Life", "contact": "hello@nutralife.com", "date": "2026-06-05", "notes": ".com address bounced, .com.au unconfirmed." },
-      { "id": "b05", "brand": "Shaishaishai", "contact": "cs@shaishaishai.kr", "date": "2026-06-07", "notes": "Korean contact bounced, US address delivered." }
+      { "id": "b05", "brand": "Shaishaishai", "contact": "cs@shaishaishai.kr", "date": "2026-06-07", "notes": "Korean contact bounced, US address delivered." },
+      { "id": "b06", "brand": "Liquid I.V.", "contact": "erin@liquid-iv.com", "date": "2026-11-03", "notes": "Delivery failure notification from mailer-daemon on 2026-11-03." }
     ],
     "closedWon": [
       { "id": "w01", "brand": "Nanoleaf", "contact": "Leslie@nanoleaf.me", "date": "2026-06-08", "notes": "Paid UGC deal completed. Testimonial secured for portfolio." }
