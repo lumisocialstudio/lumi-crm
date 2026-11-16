@@ -50,7 +50,6 @@
       { "id": "s43", "brand": "Smartblend AU", "contact": "Instagram DM only", "date": "2026-06-12", "notes": "Wellness brand, no email available" },
       { "id": "s44", "brand": "Dr Organic", "contact": "jasmine@araysocial.com", "date": "2026-10-27", "notes": "Re-pitched via their UGC agency contact after earlier decline (working with agency this year)" },
       { "id": "s45", "brand": "Grenade", "contact": "sponsorships@grenade.com", "date": "2026-11-01", "notes": "Re-pitched to sponsorships inbox as directed by Zendesk reply (Jas x Grenade UGC Collab). Follow-up sent 2026-11-01." },
-      { "id": "s46", "brand": "Dusk", "contact": "partners@dusk.com", "date": "2026-11-04", "notes": "UGC collab pitch (Jas x Dusk UGC Collab) Followed up 2026-11-16." },
       { "id": "s47", "brand": "The Productivity Method", "contact": "marie@genflow.com", "date": "2026-11-13", "notes": "UGC collab pitch (Jasmine x The Productivity Method collab) — planner / intentional living content Followed up 2026-11-16." },
       { "id": "s48", "brand": "Alyve", "contact": "info@alyvewellness.com", "date": "2026-11-16", "notes": "UGC collab pitch (Jas x Alyve UGC Collab)" },
       { "id": "s49", "brand": "Caia Cosmetics", "contact": "collaboration@caiacosmetics.com", "date": "2026-11-16", "notes": "UGC collab pitch (Jas x Caia UGC Collab)" },
@@ -85,7 +84,8 @@
       { "id": "r17", "brand": "Summer Fridays", "contact": "influencers@summerfridays.com", "date": "2026-11-02", "lastReply": "2026-11-16", "notes": "Auto-reply received (initial pitch and 2026-11-16 follow-up)." },
       { "id": "r18", "brand": "Liquid IV", "contact": "Press@liquid-iv.com", "date": "2026-11-16", "lastReply": "2026-11-16", "notes": "Pitch also to info@liquid-iv.com. Support ticket auto-ack (request 1093858), under review." },
       { "id": "r19", "brand": "Accessorize", "contact": "customerservices@monsoon.co.uk", "date": "2026-11-03", "lastReply": "2026-11-16", "notes": "Pitched via Monsoon Accessorize CS, followed up 2026-11-16. Zendesk auto-ack: 3-4 day response window." },
-      { "id": "r20", "brand": "Boldier", "contact": "admin@boldier.com", "date": "2026-11-14", "lastReply": "2026-11-16", "notes": "INBOUND OFFER: $500 + personalised jewellery for honest-review UGC. Jasmine replied 2026-11-16 asking currency, deliverables/usage, timeline/payment, UK shipping. WARM LEAD — awaiting details." }
+      { "id": "r20", "brand": "Boldier", "contact": "admin@boldier.com", "date": "2026-11-14", "lastReply": "2026-11-16", "notes": "INBOUND OFFER: $500 + personalised jewellery for honest-review UGC. Jasmine replied 2026-11-16 asking currency, deliverables/usage, timeline/payment, UK shipping. WARM LEAD — awaiting details." },
+      { "id": "r21", "brand": "Dusk", "contact": "partners@dusk.com", "date": "2026-11-04", "lastReply": "2026-11-16", "notes": "Partners team replied 2026-11-16: no suitable collaboration opportunities at the moment (polite decline). Pitched 2026-11-04, followed up 2026-11-16." }
     ],
     "bounced": [
       { "id": "b01", "brand": "Dr Barbara Sturm", "contact": "press@drsturm.com", "date": "2026-06-05", "notes": "All 3 contact addresses blocked outright." },
