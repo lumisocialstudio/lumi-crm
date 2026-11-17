@@ -54,7 +54,6 @@
       { "id": "s48", "brand": "Alyve", "contact": "info@alyvewellness.com", "date": "2026-11-16", "notes": "UGC collab pitch (Jas x Alyve UGC Collab)" },
       { "id": "s49", "brand": "Caia Cosmetics", "contact": "collaboration@caiacosmetics.com", "date": "2026-11-16", "notes": "UGC collab pitch (Jas x Caia UGC Collab)" },
       { "id": "s50", "brand": "Frive", "contact": "affiliates@frive.co.uk", "date": "2026-11-03", "notes": "UGC collab pitch (Jas x Frive UGC Collab), also hello@frive.co.uk. Followed up 2026-11-16." },
-      { "id": "s51", "brand": "WE. ARE. REGULAR", "contact": "contact@weareregular.com", "date": "2026-11-03", "notes": "UGC collab pitch. Followed up 2026-11-16." },
       { "id": "s52", "brand": "Weleda", "contact": "community@weleda.co.uk", "date": "2026-11-03", "notes": "UK UGC collab pitch. Followed up 2026-11-16." },
       { "id": "s53", "brand": "Nip+Fab", "contact": "enquiries@nipandfab.com", "date": "2026-11-03", "notes": "UGC collab pitch. Followed up 2026-11-16." },
       { "id": "s54", "brand": "Hetras", "contact": "marketing.ad@hetras.co.kr", "date": "2026-11-03", "notes": "UGC collab pitch. Followed up 2026-11-16." },
@@ -85,7 +84,8 @@
       { "id": "r18", "brand": "Liquid IV", "contact": "Press@liquid-iv.com", "date": "2026-11-16", "lastReply": "2026-11-16", "notes": "Pitch also to info@liquid-iv.com. Support ticket auto-ack (request 1093858), under review." },
       { "id": "r19", "brand": "Accessorize", "contact": "customerservices@monsoon.co.uk", "date": "2026-11-03", "lastReply": "2026-11-16", "notes": "Pitched via Monsoon Accessorize CS, followed up 2026-11-16. Zendesk auto-ack: 3-4 day response window." },
       { "id": "r20", "brand": "Boldier", "contact": "admin@boldier.com", "date": "2026-11-14", "lastReply": "2026-11-16", "notes": "INBOUND OFFER: $500 + personalised jewellery for honest-review UGC. Jasmine replied 2026-11-16 asking currency, deliverables/usage, timeline/payment, UK shipping. WARM LEAD — awaiting details." },
-      { "id": "r21", "brand": "Dusk", "contact": "partners@dusk.com", "date": "2026-11-04", "lastReply": "2026-11-16", "notes": "Partners team replied 2026-11-16: no suitable collaboration opportunities at the moment (polite decline). Pitched 2026-11-04, followed up 2026-11-16." }
+      { "id": "r21", "brand": "Dusk", "contact": "partners@dusk.com", "date": "2026-11-04", "lastReply": "2026-11-16", "notes": "Partners team replied 2026-11-16: no suitable collaboration opportunities at the moment (polite decline). Pitched 2026-11-04, followed up 2026-11-16." },
+      { "id": "r22", "brand": "WE. ARE. REGULAR", "contact": "contact@weareregular.com", "date": "2026-11-03", "lastReply": "2026-11-16", "notes": "Replied 2026-11-16: not actively exploring UGC direct at the moment, will keep on file (polite decline). Pitched 2026-11-03, followed up 2026-11-16." }
     ],
     "bounced": [
       { "id": "b01", "brand": "Dr Barbara Sturm", "contact": "press@drsturm.com", "date": "2026-06-05", "notes": "All 3 contact addresses blocked outright." },
