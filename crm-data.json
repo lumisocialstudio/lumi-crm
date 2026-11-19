@@ -61,7 +61,8 @@
       { "id": "s56", "brand": "Noughty", "contact": "PR@lovenoughty.com", "date": "2026-11-02", "notes": "UGC collab pitch. Followed up 2026-11-16." },
       { "id": "s57", "brand": "VO5", "contact": "communications@elidabeauty.com", "date": "2026-11-02", "notes": "UGC collab pitch via Elida Beauty. Followed up 2026-11-16." },
       { "id": "s58", "brand": "BetterHelp", "contact": "contact@betterhelp.com", "date": "2026-11-02", "notes": "UGC collab pitch. Followed up 2026-11-16." },
-      { "id": "s59", "brand": "Hume Health", "contact": "growth@cubert.co", "date": "2026-11-01", "notes": "UGC collab pitch via Cubert growth contact. Followed up 2026-11-16." }
+      { "id": "s59", "brand": "Hume Health", "contact": "growth@cubert.co", "date": "2026-11-01", "notes": "UGC collab pitch via Cubert growth contact. Followed up 2026-11-16." },
+      { "id": "s60", "brand": "Riptide", "contact": "hello@riptide.agency", "date": "2026-11-19", "notes": "UGC creator pitch to Riptide agency (UK briefs)." }
     ],
     "replied": [
       { "id": "r01", "brand": "Skin + Me", "contact": "hello@skinandme.com", "date": "2026-06-03", "lastReply": "2026-06-08", "notes": "Leny confirmed paid UGC programme. Affiliate signup sent. WARM LEAD — follow up to convert to paid trial pack." },
@@ -85,7 +86,9 @@
       { "id": "r19", "brand": "Accessorize", "contact": "customerservices@monsoon.co.uk", "date": "2026-11-03", "lastReply": "2026-11-16", "notes": "Pitched via Monsoon Accessorize CS, followed up 2026-11-16. Zendesk auto-ack: 3-4 day response window." },
       { "id": "r20", "brand": "Boldier", "contact": "admin@boldier.com", "date": "2026-11-14", "lastReply": "2026-11-16", "notes": "INBOUND OFFER: $500 + personalised jewellery for honest-review UGC. Jasmine replied 2026-11-16 asking currency, deliverables/usage, timeline/payment, UK shipping. WARM LEAD — awaiting details." },
       { "id": "r21", "brand": "Dusk", "contact": "partners@dusk.com", "date": "2026-11-04", "lastReply": "2026-11-16", "notes": "Partners team replied 2026-11-16: no suitable collaboration opportunities at the moment (polite decline). Pitched 2026-11-04, followed up 2026-11-16." },
-      { "id": "r22", "brand": "WE. ARE. REGULAR", "contact": "contact@weareregular.com", "date": "2026-11-03", "lastReply": "2026-11-16", "notes": "Replied 2026-11-16: not actively exploring UGC direct at the moment, will keep on file (polite decline). Pitched 2026-11-03, followed up 2026-11-16." }
+      { "id": "r22", "brand": "WE. ARE. REGULAR", "contact": "contact@weareregular.com", "date": "2026-11-03", "lastReply": "2026-11-16", "notes": "Replied 2026-11-16: not actively exploring UGC direct at the moment, will keep on file (polite decline). Pitched 2026-11-03, followed up 2026-11-16." },
+      { "id": "r23", "brand": "SOLSKIN", "contact": "hello@solskin.com", "date": "2026-11-19", "lastReply": "2026-11-19", "notes": "Freelance creator pitch (Jas x SOLSKIN). Customer service auto-reply received, response within 24 hours." },
+      { "id": "r24", "brand": "DÈS VU", "contact": "info@des-vu.com", "date": "2026-11-19", "lastReply": "2026-11-19", "notes": "Freelance content pitch, also apply@des-vu.com. Zendesk auto-ack received (request 35923)." }
     ],
     "bounced": [
       { "id": "b01", "brand": "Dr Barbara Sturm", "contact": "press@drsturm.com", "date": "2026-06-05", "notes": "All 3 contact addresses blocked outright." },
